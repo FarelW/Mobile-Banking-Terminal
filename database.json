@@ -1,0 +1,24 @@
+{
+    "user1": [
+        {
+            "Nama Anda": "Yeremias",
+            "No. Rek": "1478274827",
+            "Password": "1",
+            "Username": "Yere71",
+            "Saldo": 89140500,
+            "Pengeluaran": 10859500,
+            "Pemasukkan": 100000000,
+            "Selisih": 89140500
+        },
+        {
+            "Nama Anda": "BEN",
+            "No. Rek": "9823698129831",
+            "Password": "12345",
+            "Username": "BEN15",
+            "Saldo": 100000000,
+            "Pengeluaran": 0,
+            "Pemasukkan": 100000000,
+            "Selisih": 0
+        }
+    ]
+}
